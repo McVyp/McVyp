@@ -1,7 +1,7 @@
 Hi 👋 My name is lye
 ====================
 
-Full Stack Web Developer
+Full Stack Developer
 ------------------------
 
 * ✉️  You can contact me at [lyeclyde@gmail.com](mailto:lyeclyde@gmail.com)
