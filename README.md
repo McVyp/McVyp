@@ -5,7 +5,6 @@ Full Stack Developer
 * ✉️  You can contact me at [lyeclyde@gmail.com](mailto:lyeclyde@gmail.com)
 * 🧠  I'm learning Web 3.0
 * ⚡  I'm batman
-
 ### Skills
 
 <p align="left">
