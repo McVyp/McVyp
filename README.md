@@ -1,11 +1,7 @@
 Hi 👋 My name is lye
 ====================
 ![github-snake-dark](https://github.com/McVyp/McVyp/assets/93302780/e28484d5-0690-425c-a802-ded39cb303ab)
-Full Stack Developer
-------------------------
-* ✉️  You can contact me at [lyeclyde@gmail.com](mailto:lyeclyde@gmail.com)
-* 🧠  I'm learning Web 3.0
-* ⚡  I'm batman
+
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
