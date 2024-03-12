@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E19BF7&multiline=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+lye+)](https://git.io/typing-svg)
+![react](https://github.com/McVyp/McVyp/assets/93302780/fca9ebab-b20b-4214-8dfe-dfc73fa8dc3b)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E19BF7&multiline=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+lye+)](https://git.io/typing-svg)
 ====================
 ![github-snake-dark](https://github.com/McVyp/McVyp/assets/93302780/e28484d5-0690-425c-a802-ded39cb303ab)
 
@@ -6,6 +6,8 @@
 
 ### Skills
 <p align="left">
+  ![react](https://github.com/McVyp/McVyp/assets/93302780/09e2b98f-6bf2-4289-902d-8efc1539492d)
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
