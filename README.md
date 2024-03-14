@@ -5,7 +5,6 @@
 ## Full-Stack Engineer
 
 ### Skills
-![node]()
 ![mongo](https://github.com/McVyp/McVyp/assets/93302780/80723941-2651-4415-9f50-2f46d7410cf1)
 ![angular](https://github.com/McVyp/McVyp/assets/93302780/d13812dd-7a57-47df-9525-c6a4379d7bab)
 <div align="center">
