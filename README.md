@@ -10,9 +10,7 @@
 <img src="https://github.com/McVyp/McVyp/assets/93302780/16632ab5-11f6-42c0-b1ef-1de3464945f8" width="100">
 <img src="https://github.com/McVyp/McVyp/assets/93302780/f17a0445-cbe1-4af4-97ad-32cc1d2d3131f" width="100">
 <img src="https://github.com/McVyp/McVyp/assets/93302780/d13812dd-7a57-47df-9525-c6a4379d7bab" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
