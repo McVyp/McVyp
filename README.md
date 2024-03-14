@@ -5,7 +5,7 @@
 ## Full-Stack Engineer
 
 ### Skills
-<div>
+<div align="center">
   <img src="https://github.com/McVyp/McVyp/assets/93302780/fca9ebab-b20b-4214-8dfe-dfc73fa8dc3b" width="100">
 <img src="https://github.com/McVyp/McVyp/assets/93302780/16632ab5-11f6-42c0-b1ef-1de3464945f8" width="100">
 <img src="https://github.com/McVyp/McVyp/assets/93302780/f17a0445-cbe1-4af4-97ad-32cc1d2d3131f" width="100">
