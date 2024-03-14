@@ -5,7 +5,6 @@
 ## Full-Stack Engineer
 
 ### Skills
-![mongo](https://github.com/McVyp/McVyp/assets/93302780/80723941-2651-4415-9f50-2f46d7410cf1)
 <div align="center">
   <img src="https://github.com/McVyp/McVyp/assets/93302780/fca9ebab-b20b-4214-8dfe-dfc73fa8dc3b" width="100">
 <img src="https://github.com/McVyp/McVyp/assets/93302780/16632ab5-11f6-42c0-b1ef-1de3464945f8" width="100">
@@ -20,9 +19,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+<img src="https://github.com/McVyp/McVyp/assets/93302780/80723941-2651-4415-9f50-2f46d7410cf1" width="100">
 </div>
 
 ### Socials
