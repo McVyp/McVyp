@@ -2,8 +2,6 @@
 ====================
 ![github-snake-dark](https://github.com/McVyp/McVyp/assets/93302780/e28484d5-0690-425c-a802-ded39cb303ab)
 
-## Full-Stack Engineer
-
 ### Skills
 <div align="center">
   <img src="https://github.com/McVyp/McVyp/assets/93302780/fca9ebab-b20b-4214-8dfe-dfc73fa8dc3b" width="100">
