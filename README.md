@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E19BF7&multiline=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+lye+)](https://git.io/typing-svg)
 ====================
 ![github-snake-dark](https://github.com/McVyp/McVyp/assets/93302780/e28484d5-0690-425c-a802-ded39cb303ab)
-
 ### Skills
 <div align="center">
   <img src="https://github.com/McVyp/McVyp/assets/93302780/fca9ebab-b20b-4214-8dfe-dfc73fa8dc3b" width="100">
