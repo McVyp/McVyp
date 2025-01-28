@@ -10,7 +10,5 @@
 <img src="https://github.com/McVyp/McVyp/assets/93302780/80723941-2651-4415-9f50-2f46d7410cf1" width="100">
 </div>
 
-### Stats
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=McVyp)](https://github.com/McVyp/github-readme-stats)
 ### Socials
 <p align="left"><a href="https://www.github.com/McVyp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
