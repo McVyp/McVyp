@@ -2,5 +2,3 @@
 ====================
 ![github-snake-dark](https://github.com/McVyp/McVyp/assets/93302780/e28484d5-0690-425c-a802-ded39cb303ab)
 
-### Socials
-<p align="left"><a href="https://www.github.com/McVyp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
